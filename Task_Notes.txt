@@ -1,0 +1,15 @@
+BUILD A BASIC WEBSITE
+
+change fromfile extension to php (from html)
+updated title with php tags to display title
+updated footer with php tags
+created 'inc' folder and setup header/footer pages to be included on all pages.
+
+learn't about 'include'
+creating an array and adding to array whilst specifying a key
+using foreach function
+using count function
+creating arrays, adding to arrays, adding extra dimensions to an array.
+
+
+array_rand to create a (random) suggestions page (built in function).
